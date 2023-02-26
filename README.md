@@ -1,5 +1,6 @@
 # sudoku
 
+Semester project for Mobile Application Development course.
 An app that solves sudoku puzzles from an initial state of given numbers. 
 Built in Android Studio using the Dart programming language with the Flutter framework.
 
